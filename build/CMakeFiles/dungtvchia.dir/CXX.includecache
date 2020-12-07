@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../thuvienchung/thuvienchia/phepnhan.h
+
+/home/pham/cpp/dungtvchia/main.cpp
+iostream
+-
+phepnhan.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -fpie   -pie CMakeFiles/dungtvchia.dir/main.cpp.o  -o dungtvchia   -L/home/pham/cpp/dungtvchia/../thuvienchung/thuvienchia  -Wl,-rpath,/home/pham/cpp/dungtvchia/../thuvienchung/thuvienchia -lthuvienchia 
